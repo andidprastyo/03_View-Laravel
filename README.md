@@ -1,7 +1,7 @@
 # 03 Views Laravel
 
 Repository untuk Jobsheet 03 views
-<br>Nama    : Andi Dwi Prastyo
-<br>NIM     : 2141720046
-<br>Absen   : 09
-<br>Kelas   : TI-2D
+<br>Nama&emsp;: Andi Dwi Prastyo
+<br>NIM&emsp;: 2141720046
+<br>Absen&emsp;: 09
+<br>Kelas&emsp;: TI-2D
